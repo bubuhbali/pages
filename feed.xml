@@ -17,7 +17,7 @@
         <link href="https://bubuhbali.github.io/pages/contact.html"/>
         <id>https://bubuhbali.github.io/pages/contact.html</id>
 
-        <updated>2020-09-06T12:39:15+08:00</updated>
+        <updated>2020-09-06T12:48:29+08:00</updated>
             <summary>
                 <![CDATA[
                     We are located around 15 minutes drive from Ubud center. Our address is Jalan Raya Sebatu, Tegalalang Gianyar Bali
@@ -38,7 +38,7 @@
         <link href="https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html"/>
         <id>https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html</id>
 
-        <updated>2020-09-06T12:39:15+08:00</updated>
+        <updated>2020-09-06T12:48:29+08:00</updated>
             <summary>
                 <![CDATA[
                     Bubuh Bali Pak Item is one of the cool spot in Ubud.
@@ -47,6 +47,10 @@
         <content type="html">
             <![CDATA[
                 <p>Bubuh Bali Pak Item is one of the cool spot in Ubud.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-bali-view.jpg" data-size="2000x1600"><img loading="lazy" src="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-bali-view-thumbnail.jpg" alt="" width="768" height="614"></a></figure>
+<figure class="gallery__item"><a href="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-bali.jpg" data-size="830x466"><img loading="lazy" src="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-bali-thumbnail.jpg" alt="" width="768" height="431"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
