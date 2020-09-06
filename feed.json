@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://bubuhbali.github.io/pages/contact.html",
+            "url": "https://bubuhbali.github.io/pages/contact.html",
+            "title": "Contact",
+            "summary": "We are located around 15 minutes drive from Ubud center. Our address is Jalan Raya Sebatu, Tegalalang Gianyar Bali",
+            "content_html": "<p>We are located around 15 minutes drive from Ubud center. Our address is </p>\n<p>Jalan Raya Sebatu, Tegalalang Gianyar Bali</p>",
+            "author": {
+                "name": "Pak Item"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-06T12:32:43+08:00",
+            "date_modified": "2020-09-06T12:32:43+08:00"
+        },
+        {
             "id": "https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html",
             "url": "https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html",
             "title": "Bubuh Bali Pak Item",
@@ -20,8 +34,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-06T12:29:08+08:00",
-            "date_modified": "2020-09-06T12:29:08+08:00"
+            "date_published": "2020-09-06T12:32:43+08:00",
+            "date_modified": "2020-09-06T12:32:43+08:00"
         }
     ]
 }

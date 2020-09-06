@@ -10,6 +10,27 @@
     <id>https://bubuhbali.github.io/pages</id>
 
     <entry>
+        <title>Contact</title>
+        <author>
+            <name>Pak Item</name>
+        </author>
+        <link href="https://bubuhbali.github.io/pages/contact.html"/>
+        <id>https://bubuhbali.github.io/pages/contact.html</id>
+
+        <updated>2020-09-06T12:32:43+08:00</updated>
+            <summary>
+                <![CDATA[
+                    We are located around 15 minutes drive from Ubud center. Our address is Jalan Raya Sebatu, Tegalalang Gianyar Bali
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We are located around 15 minutes drive from Ubud center. Our address is </p>
+<p>Jalan Raya Sebatu, Tegalalang Gianyar Bali</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Bubuh Bali Pak Item</title>
         <author>
             <name>Pak Item</name>
@@ -17,7 +38,7 @@
         <link href="https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html"/>
         <id>https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html</id>
 
-        <updated>2020-09-06T12:29:08+08:00</updated>
+        <updated>2020-09-06T12:32:43+08:00</updated>
             <summary>
                 <![CDATA[
                     Bubuh Bali Pak Item is one of the cool spot in Ubud.
