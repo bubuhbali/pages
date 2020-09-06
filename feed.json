@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bubuh Bali",
+    "description": "",
+    "home_page_url": "https://bubuhbali.github.io/pages",
+    "feed_url": "https://bubuhbali.github.io/pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Pak Item"
+    },
+    "items": [
+        {
+            "id": "https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html",
+            "url": "https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html",
+            "title": "Bubuh Bali Pak Item",
+            "summary": "Bubuh Bali Pak Item is one of the cool spot in Ubud.",
+            "content_html": "<p>Bubuh Bali Pak Item is one of the cool spot in Ubud.</p>",
+            "author": {
+                "name": "Pak Item"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-06T12:22:40+08:00",
+            "date_modified": "2020-09-06T12:22:40+08:00"
+        }
+    ]
+}
