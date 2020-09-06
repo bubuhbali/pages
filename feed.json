@@ -13,15 +13,15 @@
             "id": "https://bubuhbali.github.io/pages/beverage-menu.html",
             "url": "https://bubuhbali.github.io/pages/beverage-menu.html",
             "title": "Beverage Menu",
-            "summary": "TeaCofeeMilkJuiceBananaOrange ",
-            "content_html": "<ol>\n<li>Tea</li>\n<li>Cofee</li>\n<li>Milk</li>\n<li>Juice\n<ul>\n<li>Banana</li>\n<li>Orange</li>\n</ul>\n</li>\n<li> </li>\n</ol>",
+            "summary": "TeaCofeeMilkJuiceBananaOrangePineappleWatermelonWater ",
+            "content_html": "<ol>\n<li>Tea</li>\n<li>Cofee</li>\n<li>Milk</li>\n<li>Juice\n<ol>\n<li>Banana</li>\n<li>Orange</li>\n<li>Pineapple</li>\n<li>Watermelon</li>\n</ol>\n</li>\n<li>Water </li>\n</ol>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "Pak Item"
             },
             "tags": [
             ],
-            "date_published": "2020-09-06T14:22:24+08:00",
-            "date_modified": "2020-09-06T14:22:24+08:00"
+            "date_published": "2020-09-06T14:37:09+08:00",
+            "date_modified": "2020-09-06T14:37:09+08:00"
         },
         {
             "id": "https://bubuhbali.github.io/pages/food-menu.html",
@@ -33,8 +33,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-06T14:22:24+08:00",
-            "date_modified": "2020-09-06T14:22:24+08:00"
+            "date_published": "2020-09-06T14:37:09+08:00",
+            "date_modified": "2020-09-06T14:37:09+08:00"
         },
         {
             "id": "https://bubuhbali.github.io/pages/contact.html",
@@ -47,8 +47,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-06T14:22:24+08:00",
-            "date_modified": "2020-09-06T14:22:24+08:00"
+            "date_published": "2020-09-06T14:37:09+08:00",
+            "date_modified": "2020-09-06T14:37:09+08:00"
         },
         {
             "id": "https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html",
@@ -61,8 +61,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-06T14:22:24+08:00",
-            "date_modified": "2020-09-06T14:22:24+08:00"
+            "date_published": "2020-09-06T14:37:09+08:00",
+            "date_modified": "2020-09-06T14:37:09+08:00"
         }
     ]
 }
