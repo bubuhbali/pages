@@ -10,6 +10,37 @@
     <id>https://bubuhbali.github.io/pages</id>
 
     <entry>
+        <title>Beverage Menu</title>
+        <author>
+            <name>Pak Item</name>
+        </author>
+        <link href="https://bubuhbali.github.io/pages/beverage-menu.html"/>
+        <id>https://bubuhbali.github.io/pages/beverage-menu.html</id>
+
+        <updated>2020-09-06T14:16:27+08:00</updated>
+            <summary>
+                <![CDATA[
+                    TeaCofeeMilkJuiceBananaOrange 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>Tea</li>
+<li>Cofee</li>
+<li>Milk</li>
+<li>Juice
+<ul>
+<li>Banana</li>
+<li>Orange</li>
+</ul>
+</li>
+<li> </li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Food Menu </title>
         <author>
             <name>Pak Item</name>
@@ -17,7 +48,7 @@
         <link href="https://bubuhbali.github.io/pages/food-menu.html"/>
         <id>https://bubuhbali.github.io/pages/food-menu.html</id>
 
-        <updated>2020-09-06T14:14:37+08:00</updated>
+        <updated>2020-09-06T14:16:27+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -33,7 +64,7 @@
         <link href="https://bubuhbali.github.io/pages/contact.html"/>
         <id>https://bubuhbali.github.io/pages/contact.html</id>
 
-        <updated>2020-09-06T14:14:37+08:00</updated>
+        <updated>2020-09-06T14:16:27+08:00</updated>
             <summary>
                 <![CDATA[
                     We are located around 15 minutes drive from Ubud center. Our address is Jalan Raya Sebatu, Tegalalang Gianyar Bali
@@ -54,7 +85,7 @@
         <link href="https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html"/>
         <id>https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html</id>
 
-        <updated>2020-09-06T14:14:37+08:00</updated>
+        <updated>2020-09-06T14:16:27+08:00</updated>
             <summary>
                 <![CDATA[
                     <p>Bubuh Bali Pak Item is one of the cool spot in Ubud. It is located within rice field but the remain accessible from the main street. </p>
