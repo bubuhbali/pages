@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Bubuh Bali</title>
-    <link href="https://bubuhbali.github.io/pages/feed.xml" rel="self" />
-    <link href="https://bubuhbali.github.io/pages" />
+    <link href="http://dwiutari.com/feed.xml" rel="self" />
+    <link href="http://dwiutari.com" />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>Pak Item</name>
     </author>
-    <id>https://bubuhbali.github.io/pages</id>
+    <id>http://dwiutari.com</id>
 
     <entry>
         <title>Beverage Menu</title>
         <author>
             <name>Pak Item</name>
         </author>
-        <link href="https://bubuhbali.github.io/pages/beverage-menu.html"/>
-        <id>https://bubuhbali.github.io/pages/beverage-menu.html</id>
+        <link href="http://dwiutari.com/beverage-menu.html"/>
+        <id>http://dwiutari.com/beverage-menu.html</id>
 
-        <updated>2020-09-07T15:45:10+08:00</updated>
+        <updated>2020-09-07T15:48:02+08:00</updated>
             <summary>
                 <![CDATA[
                     TeaCofeeMilkJuiceBananaOrangePineappleWatermelonWater 
@@ -49,10 +49,10 @@
         <author>
             <name>Pak Item</name>
         </author>
-        <link href="https://bubuhbali.github.io/pages/food-menu.html"/>
-        <id>https://bubuhbali.github.io/pages/food-menu.html</id>
+        <link href="http://dwiutari.com/food-menu.html"/>
+        <id>http://dwiutari.com/food-menu.html</id>
 
-        <updated>2020-09-07T15:45:10+08:00</updated>
+        <updated>2020-09-07T15:48:02+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -65,10 +65,10 @@
         <author>
             <name>Pak Item</name>
         </author>
-        <link href="https://bubuhbali.github.io/pages/contact.html"/>
-        <id>https://bubuhbali.github.io/pages/contact.html</id>
+        <link href="http://dwiutari.com/contact.html"/>
+        <id>http://dwiutari.com/contact.html</id>
 
-        <updated>2020-09-07T15:45:10+08:00</updated>
+        <updated>2020-09-07T15:48:02+08:00</updated>
             <summary>
                 <![CDATA[
                     We are located around 15 minutes drive from Ubud center. Our address is Jalan Raya Sebatu, Tegalalang Gianyar Bali
@@ -86,10 +86,10 @@
         <author>
             <name>Pak Item</name>
         </author>
-        <link href="https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html"/>
-        <id>https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html</id>
+        <link href="http://dwiutari.com/bubuh-bali-pak-item.html"/>
+        <id>http://dwiutari.com/bubuh-bali-pak-item.html</id>
 
-        <updated>2020-09-07T15:45:10+08:00</updated>
+        <updated>2020-09-07T15:48:02+08:00</updated>
             <summary>
                 <![CDATA[
                     Bubuh Bali Pak Item is one of the cool spot in Ubud. It is located within rice field but the&hellip;
@@ -98,9 +98,9 @@
         <content type="html">
             <![CDATA[
                 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-area.JPG" data-size="1600x900"><img loading="lazy" src="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-area-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-bali-view.jpg" data-size="2000x1600"><img loading="lazy" src="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-bali-view-thumbnail.jpg" alt="" width="768" height="614"></a></figure>
-<figure class="gallery__item"><a href="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh_2_com-1300x426-2.jpg" data-size="1300x426"><img loading="lazy" src="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh_2_com-1300x426-2-thumbnail.jpg" alt="" width="768" height="252"></a></figure>
+<figure class="gallery__item"><a href="http://dwiutari.com/media/posts/1/gallery/bubuh-area.JPG" data-size="1600x900"><img loading="lazy" src="http://dwiutari.com/media/posts/1/gallery/bubuh-area-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="http://dwiutari.com/media/posts/1/gallery/bubuh-bali-view.jpg" data-size="2000x1600"><img loading="lazy" src="http://dwiutari.com/media/posts/1/gallery/bubuh-bali-view-thumbnail.jpg" alt="" width="768" height="614"></a></figure>
+<figure class="gallery__item"><a href="http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-2.jpg" data-size="1300x426"><img loading="lazy" src="http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-2-thumbnail.jpg" alt="" width="768" height="252"></a></figure>
 </div></div>
 <p>Bubuh Bali Pak Item is one of the cool spot in Ubud. It is located within rice field but the remain accessible from the main street. </p>
 <p>There are some beautiful attractions around Bubuh Bali Pak Item that you can combine if you visit this area. </p>
@@ -110,9 +110,9 @@
 <li>Kintamani Lake View</li>
 </ol>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://bubuhbali.github.io/pages/media/posts/1/gallery/2017-04-09.jpg" data-size="1080x608"><img loading="lazy" src="https://bubuhbali.github.io/pages/media/posts/1/gallery/2017-04-09-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh_2_com-1300x426.jpg" data-size="1300x426"><img loading="lazy" src="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh_2_com-1300x426-thumbnail.jpg" alt="" width="768" height="252"></a></figure>
-<figure class="gallery__item"><a href="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh01-2.jpg" data-size="1080x1080"><img loading="lazy" src="https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh01-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="http://dwiutari.com/media/posts/1/gallery/2017-04-09.jpg" data-size="1080x608"><img loading="lazy" src="http://dwiutari.com/media/posts/1/gallery/2017-04-09-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426.jpg" data-size="1300x426"><img loading="lazy" src="http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-thumbnail.jpg" alt="" width="768" height="252"></a></figure>
+<figure class="gallery__item"><a href="http://dwiutari.com/media/posts/1/gallery/bubuh01-2.jpg" data-size="1080x1080"><img loading="lazy" src="http://dwiutari.com/media/posts/1/gallery/bubuh01-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 </div></div>
 <p> </p>
             ]]>

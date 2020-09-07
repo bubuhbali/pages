@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Bubuh Bali",
     "description": "",
-    "home_page_url": "https://bubuhbali.github.io/pages",
-    "feed_url": "https://bubuhbali.github.io/pages/feed.json",
+    "home_page_url": "http://dwiutari.com",
+    "feed_url": "http://dwiutari.com/feed.json",
     "user_comment": "",
-    "icon": "https://bubuhbali.github.io/pages/media/website/bubuh_2_com-1300x426.jpg",
+    "icon": "http://dwiutari.com/media/website/bubuh_2_com-1300x426.jpg",
     "author": {
         "name": "Pak Item"
     },
     "items": [
         {
-            "id": "https://bubuhbali.github.io/pages/beverage-menu.html",
-            "url": "https://bubuhbali.github.io/pages/beverage-menu.html",
+            "id": "http://dwiutari.com/beverage-menu.html",
+            "url": "http://dwiutari.com/beverage-menu.html",
             "title": "Beverage Menu",
             "summary": "TeaCofeeMilkJuiceBananaOrangePineappleWatermelonWater ",
             "content_html": "<ol>\n<li>Tea</li>\n<li>Cofee</li>\n<li>Milk</li>\n<li>Juice\n<ol>\n<li>Banana</li>\n<li>Orange</li>\n<li>Pineapple</li>\n<li>Watermelon</li>\n</ol>\n</li>\n<li>Water </li>\n</ol>\n<p> </p>\n<p> </p>",
@@ -21,12 +21,12 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-07T15:45:10+08:00",
-            "date_modified": "2020-09-07T15:45:10+08:00"
+            "date_published": "2020-09-07T15:48:02+08:00",
+            "date_modified": "2020-09-07T15:48:02+08:00"
         },
         {
-            "id": "https://bubuhbali.github.io/pages/food-menu.html",
-            "url": "https://bubuhbali.github.io/pages/food-menu.html",
+            "id": "http://dwiutari.com/food-menu.html",
+            "url": "http://dwiutari.com/food-menu.html",
             "title": "Food Menu ",
             "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/7j6VndCKZ7E\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "author": {
@@ -34,12 +34,12 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-07T15:45:10+08:00",
-            "date_modified": "2020-09-07T15:45:10+08:00"
+            "date_published": "2020-09-07T15:48:02+08:00",
+            "date_modified": "2020-09-07T15:48:02+08:00"
         },
         {
-            "id": "https://bubuhbali.github.io/pages/contact.html",
-            "url": "https://bubuhbali.github.io/pages/contact.html",
+            "id": "http://dwiutari.com/contact.html",
+            "url": "http://dwiutari.com/contact.html",
             "title": "Contact",
             "summary": "We are located around 15 minutes drive from Ubud center. Our address is Jalan Raya Sebatu, Tegalalang Gianyar Bali",
             "content_html": "<p>We are located around 15 minutes drive from Ubud center. Our address is </p>\n<p>Jalan Raya Sebatu, Tegalalang Gianyar Bali</p>",
@@ -48,22 +48,22 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-07T15:45:10+08:00",
-            "date_modified": "2020-09-07T15:45:10+08:00"
+            "date_published": "2020-09-07T15:48:02+08:00",
+            "date_modified": "2020-09-07T15:48:02+08:00"
         },
         {
-            "id": "https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html",
-            "url": "https://bubuhbali.github.io/pages/bubuh-bali-pak-item.html",
+            "id": "http://dwiutari.com/bubuh-bali-pak-item.html",
+            "url": "http://dwiutari.com/bubuh-bali-pak-item.html",
             "title": "Bubuh Bali Pak Item",
             "summary": "Bubuh Bali Pak Item is one of the cool spot in Ubud. It is located within rice field but the&hellip;",
-            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-area.JPG\" data-size=\"1600x900\"><img loading=\"lazy\" src=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-area-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-bali-view.jpg\" data-size=\"2000x1600\"><img loading=\"lazy\" src=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh-bali-view-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh_2_com-1300x426-2.jpg\" data-size=\"1300x426\"><img loading=\"lazy\" src=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh_2_com-1300x426-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"252\"></a></figure>\n</div></div>\n<p>Bubuh Bali Pak Item is one of the cool spot in Ubud. It is located within rice field but the remain accessible from the main street. </p>\n<p>There are some beautiful attractions around Bubuh Bali Pak Item that you can combine if you visit this area. </p>\n<ol>\n<li>Gunung Kawi Sebatu Temple (2 minutes drive)</li>\n<li>Tirta Empul Holy Spring Water Temple (7 minutes drive)</li>\n<li>Kintamani Lake View</li>\n</ol>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/2017-04-09.jpg\" data-size=\"1080x608\"><img loading=\"lazy\" src=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/2017-04-09-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh_2_com-1300x426.jpg\" data-size=\"1300x426\"><img loading=\"lazy\" src=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh_2_com-1300x426-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"252\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh01-2.jpg\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://bubuhbali.github.io/pages/media/posts/1/gallery/bubuh01-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n<p> </p>",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/bubuh-area.JPG\" data-size=\"1600x900\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/bubuh-area-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/bubuh-bali-view.jpg\" data-size=\"2000x1600\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/bubuh-bali-view-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-2.jpg\" data-size=\"1300x426\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"252\"></a></figure>\n</div></div>\n<p>Bubuh Bali Pak Item is one of the cool spot in Ubud. It is located within rice field but the remain accessible from the main street. </p>\n<p>There are some beautiful attractions around Bubuh Bali Pak Item that you can combine if you visit this area. </p>\n<ol>\n<li>Gunung Kawi Sebatu Temple (2 minutes drive)</li>\n<li>Tirta Empul Holy Spring Water Temple (7 minutes drive)</li>\n<li>Kintamani Lake View</li>\n</ol>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/2017-04-09.jpg\" data-size=\"1080x608\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/2017-04-09-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426.jpg\" data-size=\"1300x426\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"252\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/bubuh01-2.jpg\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/bubuh01-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n<p> </p>",
             "author": {
                 "name": "Pak Item"
             },
             "tags": [
             ],
-            "date_published": "2020-09-07T15:45:10+08:00",
-            "date_modified": "2020-09-07T15:45:10+08:00"
+            "date_published": "2020-09-07T15:48:02+08:00",
+            "date_modified": "2020-09-07T15:48:02+08:00"
         }
     ]
 }
