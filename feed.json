@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Bubuh Bali",
     "description": "",
-    "home_page_url": "http://dwiutari.com",
-    "feed_url": "http://dwiutari.com/feed.json",
+    "home_page_url": "https://dwiutari.com",
+    "feed_url": "https://dwiutari.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Pak Item"
     },
     "items": [
         {
-            "id": "http://dwiutari.com/embed-ig.html",
-            "url": "http://dwiutari.com/embed-ig.html",
+            "id": "https://dwiutari.com/embed-ig.html",
+            "url": "https://dwiutari.com/embed-ig.html",
             "title": "Embed IG",
             "summary": " View this post on Instagram A post shared by Bubuh Bali Pak Item (@bubuhbali.pakitem) on Sep 7, 2020 at&hellip;",
             "content_html": "<blockquote class=\"instagram-media\" style=\"background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);\" data-instgrm-permalink=\"https://www.instagram.com/p/CE1J64oJkub/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"12\">\n<div style=\"padding: 16px;\">\n<div style=\"display: flex; flex-direction: row; align-items: center;\">\n<div style=\"background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"> </div>\n<div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\">\n<div style=\"background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"> </div>\n<div style=\"background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"> </div>\n</div>\n</div>\n<div style=\"padding: 19% 0;\"> </div>\n<div style=\"display: block; height: 50px; margin: 0 auto 12px; width: 50px;\"> </div>\n<div style=\"padding-top: 8px;\">\n<div style=\"color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;\">View this post on Instagram</div>\n</div>\n<div style=\"padding: 12.5% 0;\"> </div>\n<div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div>\n<div style=\"background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"> </div>\n<div style=\"background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"> </div>\n<div style=\"background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"> </div>\n</div>\n<div style=\"margin-left: 8px;\">\n<div style=\"background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"> </div>\n<div style=\"width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);\"> </div>\n</div>\n<div style=\"margin-left: auto;\">\n<div style=\"width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"> </div>\n<div style=\"background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"> </div>\n<div style=\"width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"> </div>\n</div>\n</div>\n<div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\">\n<div style=\"background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"> </div>\n<div style=\"background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"> </div>\n</div>\n<p style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;\"><a href=\"https://www.instagram.com/p/CE1J64oJkub/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\"color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;\" target=\"_blank\" rel=\"noopener\">A post shared by Bubuh Bali Pak Item (@bubuhbali.pakitem)</a> on <time style=\"font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;\" datetime=\"2020-09-07T09:37:29+00:00\">Sep 7, 2020 at 2:37am PDT</time></p>\n</div>\n</blockquote>\n<script async=\"\" src=\"//www.instagram.com/embed.js\"></script>",
@@ -20,12 +20,12 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-07T17:48:39+08:00",
-            "date_modified": "2020-09-07T17:48:39+08:00"
+            "date_published": "2020-09-07T17:52:37+08:00",
+            "date_modified": "2020-09-07T17:52:37+08:00"
         },
         {
-            "id": "http://dwiutari.com/instagram.html",
-            "url": "http://dwiutari.com/instagram.html",
+            "id": "https://dwiutari.com/instagram.html",
+            "url": "https://dwiutari.com/instagram.html",
             "title": "Instagram",
             "content_html": "<!-- LightWidget WIDGET -->\n<p>\n<script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"width: 100%; border: 0; overflow: hidden;\" src=\"//lightwidget.com/widgets/5e50dc9fe62a5453b1ee263c6d2ce419.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\"></iframe></div></p>",
             "author": {
@@ -33,12 +33,12 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-07T17:48:39+08:00",
-            "date_modified": "2020-09-07T17:48:39+08:00"
+            "date_published": "2020-09-07T17:52:37+08:00",
+            "date_modified": "2020-09-07T17:52:37+08:00"
         },
         {
-            "id": "http://dwiutari.com/beverage-menu.html",
-            "url": "http://dwiutari.com/beverage-menu.html",
+            "id": "https://dwiutari.com/beverage-menu.html",
+            "url": "https://dwiutari.com/beverage-menu.html",
             "title": "Beverage Menu",
             "summary": "TeaCofeeMilkJuiceBananaOrangePineappleWatermelonWater ",
             "content_html": "<ol>\n<li>Tea</li>\n<li>Cofee</li>\n<li>Milk</li>\n<li>Juice\n<ol>\n<li>Banana</li>\n<li>Orange</li>\n<li>Pineapple</li>\n<li>Watermelon</li>\n</ol>\n</li>\n<li>Water </li>\n</ol>\n<p> </p>\n<p> </p>",
@@ -47,12 +47,12 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-07T17:48:39+08:00",
-            "date_modified": "2020-09-07T17:48:39+08:00"
+            "date_published": "2020-09-07T17:52:37+08:00",
+            "date_modified": "2020-09-07T17:52:37+08:00"
         },
         {
-            "id": "http://dwiutari.com/food-menu.html",
-            "url": "http://dwiutari.com/food-menu.html",
+            "id": "https://dwiutari.com/food-menu.html",
+            "url": "https://dwiutari.com/food-menu.html",
             "title": "Food Menu ",
             "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/7j6VndCKZ7E\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "author": {
@@ -60,12 +60,12 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-07T17:48:39+08:00",
-            "date_modified": "2020-09-07T17:48:39+08:00"
+            "date_published": "2020-09-07T17:52:37+08:00",
+            "date_modified": "2020-09-07T17:52:37+08:00"
         },
         {
-            "id": "http://dwiutari.com/contact.html",
-            "url": "http://dwiutari.com/contact.html",
+            "id": "https://dwiutari.com/contact.html",
+            "url": "https://dwiutari.com/contact.html",
             "title": "Contact",
             "summary": "We are located around 15 minutes drive from Ubud center. Our address is Jalan Raya Sebatu, Tegalalang Gianyar Bali",
             "content_html": "<p>We are located around 15 minutes drive from Ubud center. Our address is </p>\n<p>Jalan Raya Sebatu, Tegalalang Gianyar Bali</p>",
@@ -74,22 +74,22 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-07T17:48:39+08:00",
-            "date_modified": "2020-09-07T17:48:39+08:00"
+            "date_published": "2020-09-07T17:52:37+08:00",
+            "date_modified": "2020-09-07T17:52:37+08:00"
         },
         {
-            "id": "http://dwiutari.com/bubuh-bali-pak-item.html",
-            "url": "http://dwiutari.com/bubuh-bali-pak-item.html",
+            "id": "https://dwiutari.com/bubuh-bali-pak-item.html",
+            "url": "https://dwiutari.com/bubuh-bali-pak-item.html",
             "title": "Bubuh Bali Pak Item",
             "summary": "Bubuh Bali Pak Item is one of the cool spot in Ubud. It is located within rice field but the&hellip;",
-            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/bubuh-area.JPG\" data-size=\"1600x900\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/bubuh-area-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/bubuh-bali-view.jpg\" data-size=\"2000x1600\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/bubuh-bali-view-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-2.jpg\" data-size=\"1300x426\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"252\"></a></figure>\n</div></div>\n<p>Bubuh Bali Pak Item is one of the cool spot in Ubud. It is located within rice field but the remain accessible from the main street. </p>\n<p>There are some beautiful attractions around Bubuh Bali Pak Item that you can combine if you visit this area. </p>\n<ol>\n<li>Gunung Kawi Sebatu Temple (2 minutes drive)</li>\n<li>Tirta Empul Holy Spring Water Temple (7 minutes drive)</li>\n<li>Kintamani Lake View</li>\n</ol>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/2017-04-09.jpg\" data-size=\"1080x608\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/2017-04-09-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426.jpg\" data-size=\"1300x426\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"252\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://dwiutari.com/media/posts/1/gallery/bubuh01-2.jpg\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"http://dwiutari.com/media/posts/1/gallery/bubuh01-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n<p> </p>",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://dwiutari.com/media/posts/1/gallery/bubuh-area.JPG\" data-size=\"1600x900\"><img loading=\"lazy\" src=\"https://dwiutari.com/media/posts/1/gallery/bubuh-area-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://dwiutari.com/media/posts/1/gallery/bubuh-bali-view.jpg\" data-size=\"2000x1600\"><img loading=\"lazy\" src=\"https://dwiutari.com/media/posts/1/gallery/bubuh-bali-view-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-2.jpg\" data-size=\"1300x426\"><img loading=\"lazy\" src=\"https://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"252\"></a></figure>\n</div></div>\n<p>Bubuh Bali Pak Item is one of the cool spot in Ubud. It is located within rice field but the remain accessible from the main street. </p>\n<p>There are some beautiful attractions around Bubuh Bali Pak Item that you can combine if you visit this area. </p>\n<ol>\n<li>Gunung Kawi Sebatu Temple (2 minutes drive)</li>\n<li>Tirta Empul Holy Spring Water Temple (7 minutes drive)</li>\n<li>Kintamani Lake View</li>\n</ol>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://dwiutari.com/media/posts/1/gallery/2017-04-09.jpg\" data-size=\"1080x608\"><img loading=\"lazy\" src=\"https://dwiutari.com/media/posts/1/gallery/2017-04-09-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426.jpg\" data-size=\"1300x426\"><img loading=\"lazy\" src=\"https://dwiutari.com/media/posts/1/gallery/bubuh_2_com-1300x426-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"252\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://dwiutari.com/media/posts/1/gallery/bubuh01-2.jpg\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://dwiutari.com/media/posts/1/gallery/bubuh01-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n<p> </p>",
             "author": {
                 "name": "Pak Item"
             },
             "tags": [
             ],
-            "date_published": "2020-09-07T17:48:39+08:00",
-            "date_modified": "2020-09-07T17:48:39+08:00"
+            "date_published": "2020-09-07T17:52:37+08:00",
+            "date_modified": "2020-09-07T17:52:37+08:00"
         }
     ]
 }
