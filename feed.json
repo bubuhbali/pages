@@ -14,14 +14,14 @@
             "url": "https://dwiutari.com/instagram.html",
             "title": "Instagram",
             "summary": " ",
-            "content_html": "<div id=\"7e05edcb_1599472675\" class=\"powr-instagram-feed\"> </div>\n<script src=\"https://www.powr.io/powr.js?platform=html\"></script>",
+            "content_html": "<div id=\"7e05edcb_1599472675\" class=\"powr-instagram-feed\"> </div>\n<p>\n<script src=\"https://www.powr.io/powr.js?platform=html\"></script>\n</p>",
             "author": {
                 "name": "Pak Item"
             },
             "tags": [
             ],
-            "date_published": "2020-09-23T16:08:33+08:00",
-            "date_modified": "2020-09-23T16:08:33+08:00"
+            "date_published": "2020-09-23T16:14:36+08:00",
+            "date_modified": "2020-09-23T16:14:36+08:00"
         },
         {
             "id": "https://dwiutari.com/beverage-menu.html",
@@ -29,13 +29,14 @@
             "title": "Beverage Menu",
             "summary": "TeaCofeeMilkJuiceBananaOrangePineappleWatermelonWater ",
             "content_html": "<ol>\n<li>Tea</li>\n<li>Cofee</li>\n<li>Milk</li>\n<li>Juice\n<ol>\n<li>Banana</li>\n<li>Orange</li>\n<li>Pineapple</li>\n<li>Watermelon</li>\n</ol>\n</li>\n<li>Water </li>\n</ol>\n<p> </p>\n<p> </p>",
+            "image": "https://dwiutari.com/media/posts/4/bubuh01.jpg",
             "author": {
                 "name": "Pak Item"
             },
             "tags": [
             ],
-            "date_published": "2020-09-23T16:08:33+08:00",
-            "date_modified": "2020-09-23T16:08:33+08:00"
+            "date_published": "2020-09-23T16:14:36+08:00",
+            "date_modified": "2020-09-23T16:14:36+08:00"
         },
         {
             "id": "https://dwiutari.com/food-menu.html",
@@ -48,8 +49,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-23T16:08:33+08:00",
-            "date_modified": "2020-09-23T16:08:33+08:00"
+            "date_published": "2020-09-23T16:14:36+08:00",
+            "date_modified": "2020-09-23T16:14:36+08:00"
         },
         {
             "id": "https://dwiutari.com/contact.html",
@@ -62,8 +63,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-23T16:08:33+08:00",
-            "date_modified": "2020-09-23T16:08:33+08:00"
+            "date_published": "2020-09-23T16:14:36+08:00",
+            "date_modified": "2020-09-23T16:14:36+08:00"
         },
         {
             "id": "https://dwiutari.com/bubuh-bali-pak-item.html",
@@ -76,8 +77,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-23T16:08:33+08:00",
-            "date_modified": "2020-09-23T16:08:33+08:00"
+            "date_published": "2020-09-23T16:14:36+08:00",
+            "date_modified": "2020-09-23T16:14:36+08:00"
         }
     ]
 }
